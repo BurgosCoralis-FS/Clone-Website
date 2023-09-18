@@ -136,7 +136,7 @@ form{
     flex: 100%;
 }
 
-.search-bar:hover, .search-bar:active, input:focus{
+.search-bar:hover, .search-bar:active, input:focus, .search-bar:focus{
     background: #303134;
     outline: none;
 }
